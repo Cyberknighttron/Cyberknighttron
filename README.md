@@ -1,4 +1,14 @@
-# 💫 About Me:
+# About Me:
+
+I am Arpit Ahire, a passionate student and software engineer with a strong focus on Linux, open-source technologies, and system customization. I
+enjoy exploring and refining workflows through ricing, building tools, and creating productive, aesthetic environments. 
+
+I actively work with Kubuntu, Fedora XFCE, and modern window managers like Hyprland, continuously learning by experimenting, customizing,
+and contributing to the FOSS community. 
+
+My skillset spans across multiple programming languages, including Python, C, C++, Java, JavaScript, and Shell scripting. I specialize in developing
+CLI and TUI tools, workflow automation scripts, and personalized configurations that make everyday computing more efficient and enjoyable. 
+
 🔭 I’m currently working on building Linux tools, ricing setups, and open-source contributions.<br>🌱 I’m currently learning advanced Linux system internals, Hyprland configs, and modern development workflows.<br>💬 Ask me about Linux, ricing, CLI/TUI tools, and open-source development.<br>⚡ Fun fact I dual-boot multiple Linux distros just to explore and customize them!
 
 
