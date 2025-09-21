@@ -95,9 +95,7 @@ My skillset spans across multiple programming languages, including **Python**, *
   <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" width="40" height="40" />
   </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" width="40" height="40" />
-  </a>
+
 </p>
 
 ### **Hardware**
@@ -161,5 +159,5 @@ My skillset spans across multiple programming languages, including **Python**, *
 </div>
 
 <div align="center">
-  <sub>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</sub>
+  <sub> "Code is like humor. When you have to explain it, it's bad." </sub>
 </div>
